@@ -1,0 +1,16 @@
+# Compiled Java class files
+*.class
+/out/
+/bin/
+
+# Database files (Keeps your local data private!)
+*.db
+*.sqlite
+myrupee.db
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
